@@ -21,6 +21,7 @@ Future Enhancements:
 Enhanced social interaction with features like live location sharing and real-time updates.
 Monetization strategies including premium features and targeted advertising.
 Global expansion through support for multiple languages and currencies.
+
 Acknowledgments:
 Special thanks to Professor Hong Martel, and teaching assistants Prasad Bankar and Pranjal Chaudhari for their guidance and support throughout the project.
 
