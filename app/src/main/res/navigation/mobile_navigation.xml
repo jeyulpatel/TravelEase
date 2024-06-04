@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.travelease.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/nav_location"
+        android:name="com.example.travelease.ui.location.LocationFragment"
+        android:label="Location"
+        tools:layout="@layout/fragment_location" />
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.example.travelease.ui.profile.ProfileFragment"
+        android:label="Profile" />
+    <fragment
+        android:id="@+id/nav_trip"
+        android:name="com.example.travelease.ui.trip.TripFragment"
+        android:label="Trip Plan"
+        tools:layout="@layout/fragment_trip" />
+
+</navigation>

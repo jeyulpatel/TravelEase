@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TravelEase</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">TravelEase</string>
+    <string name="nav_header_subtitle">Your Travel Companion</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_followers">Followers</string>
+    <string name="tripPlan">Trip Plan</string>
+    <string name="travelogue">Travelogue (Future)</string>
+
+    <string name="menu_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="email_address">E-mail address</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="new_user_register">New User? Register</string>
+    <string name="existing_user_sign_in">Existing User? Sign In</string>
+    <string name="register">Register</string>
+    <string name="sign_up_free">Sign Up Free</string>
+    <string name="logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
